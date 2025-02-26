@@ -1,0 +1,32 @@
+{
+  "name": "cns2addr",
+  "version": "0.0.1",
+  "description": "Chain Naming Service to Address Resolver",
+  "keywords": [
+    "CNS",
+    "NS",
+    "Blockchain"
+  ],
+  "homepage": "https://github.com/nifemibosun/cns2addr#readme",
+  "bugs": {
+    "url": "https://github.com/nifemibosun/cns2addr/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nifemibosun/cns2addr.git"
+  },
+  "license": "Apache-2.0",
+  "author": "nifemi_bosun nifemibosun70@gamil.com",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@mysten/sui": "^1.21.2",
+    "@solana/web3.js": "^1.98.0",
+    "@types/node": "^22.13.5",
+    "ethers": "^6.13.5",
+    "typescript": "^5.7.3"
+  }
+}
