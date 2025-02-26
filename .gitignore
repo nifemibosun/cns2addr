@@ -23,5 +23,3 @@ yarn-error.log*
 pnpm-debug.log*
 .DS_Store
 
-
-package-lock.json
